@@ -1,0 +1,2 @@
+﻿27	word2	,	word1
+16	word1	word2

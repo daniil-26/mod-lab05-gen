@@ -1,0 +1,6 @@
+﻿19	word5
+17	word2
+12	word6
+7	word1
+4	word3
+3	word4
